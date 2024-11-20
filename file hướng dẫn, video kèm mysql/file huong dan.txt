@@ -7,3 +7,4 @@ link trang chủ:http://127.0.0.1:8000/layout
 lick admin: http://127.0.0.1:8000/
 tk admin: tuandiep.230205@gmail.com 
 mk admin:123456789
+file video demo do thích thước lớn quá không thêm vào github được nên em tải lên drive: https://drive.google.com/file/d/1AQFJXSxbeRPWyws2UgdmYzxdENSuhzPX/view?usp=sharing
