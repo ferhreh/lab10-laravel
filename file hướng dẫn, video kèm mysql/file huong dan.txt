@@ -1,0 +1,9 @@
+-Em chào thầy ạ!
+-em đang dùng laragon kết nối csdl là heidisql và em đặt cổng là 3307 cho không bị trùng cổng với xampp nên em đặt trong file .env là DB_PORT=3307
+DB_DATABASE=demoshop13lara
+nếu thấy sài xampp và có cổng là 3306 thì thầy chỉnh trong file .env thành DB_PORT=3306
+và import file shopdemolab10 vào cơ sở dữ liệu
+link trang chủ:http://127.0.0.1:8000/layout
+lick admin: http://127.0.0.1:8000/
+tk admin: tuandiep.230205@gmail.com 
+mk admin:123456789
